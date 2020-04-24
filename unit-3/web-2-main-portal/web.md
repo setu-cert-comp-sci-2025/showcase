@@ -1,3 +1,3 @@
-2018 Programme
+Modules
 
-Full module content for the current programme (2018-2019)
+Overview of all modules in the Programme
