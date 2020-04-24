@@ -1,3 +1,3 @@
 Podcast
 
-A discussion with the course team on the HDip in Computer Science
+A discussion with the leaders on the HDip in Computer Science
