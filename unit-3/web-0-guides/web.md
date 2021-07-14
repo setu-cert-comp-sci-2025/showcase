@@ -1,3 +1,3 @@
-Programme Guide
+Programme Guide (2021)
 
-structure · philosophy · schedules · handbook
+structure · schedules · handbook · 
