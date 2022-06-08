@@ -1,3 +1,3 @@
 Podcast
 
-Four students, currently in Semester 3 of the programme, share their experiences
+Four students on the programme share their experiences
