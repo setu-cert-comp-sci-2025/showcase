@@ -1,3 +1,3 @@
 2022 Home Page
 
-The latest iteration of the course - currently in year 1
+The version of the course that started in 2022

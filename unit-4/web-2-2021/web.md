@@ -1,3 +1,3 @@
 2021 Home Page
 
-The latest iteration of the course - currently in year 2
+The version of the course that started in 2021
