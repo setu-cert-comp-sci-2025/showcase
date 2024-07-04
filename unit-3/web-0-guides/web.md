@@ -1,3 +1,3 @@
-Programme Guide (2022)
+Programme Guide (2024)
 
 structure · schedules · handbook · 
