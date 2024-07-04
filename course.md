@@ -1,2 +1,7 @@
 # Higher Diploma in Computer Science
 
+ The ONLINE Higher Diploma in Science in Computer Science is a 24-month ICT Conversion Course designed to allow honours graduates from non-computing disciplines to acquire the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment in the ICT domain in general and in software development in particular. 
+
+ Successful applicants for this course will be existing honours graduates (level 8) with the capacity and aptitude (for example numeracy skills) to complete an intensive Computer Science programme and work placement. Typical disciplines in this categoty include Engineering; Architecture; Mathematics, Physics and Financial Services. These students are generally strongly suited to the programme.
+
+ We have also successfully graduated students with a good general analytic aptitude, with an academic background in Management Information Systems, Economics; Accounting; Business and the Arts. For these students, we request that they sample a taster of the programme consisting of the first 4 weeks of the semester 1 content to ascertain their level of interest and disposition towards the discipline. Links available on this site.
