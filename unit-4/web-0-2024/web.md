@@ -1,3 +1,3 @@
-2023 Home Page
+2024 Home Page
 
 The latest iteration of the course - currently in year 1
