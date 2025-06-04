@@ -1,4 +1,5 @@
- The ONLINE Certificate in Science in Computer Science is an ICT Conversion Course designed to allow honours graduates from non-computing disciplines to acquire the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment or progress to more specialised programmes in the ICT domain in general and in software development in particular. 
+ # Online Certificate in Science in Computer Science
+ This ICT Conversion Course is designed for honours graduates from non-computing disciplines to develop the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment. The programme also serves as a solid foundation for progression to more specialised studies in the ICT domain.
 
  Successful applicants for this course will be existing honours graduates (level 8) with the capacity and aptitude (for example numeracy skills) to complete an intensive Computer Science programme and work placement. Typical disciplines in this categoty include Engineering; Architecture; Mathematics, Physics and Financial Services. These students are generally strongly suited to the programme.
 
