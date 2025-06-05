@@ -1,4 +1,4 @@
-# Certificate in Computer Science
+# Online Computer Science at SETU
 
  The ONLINE Certificate in Science in Computer Science is an ICT Conversion Course designed to allow honours graduates from non-computing disciplines to acquire the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment or progress to more specialised programmes in the ICT domain in general and in software development in particular. 
 

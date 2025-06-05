@@ -1,3 +1,3 @@
 Podcast
 
-Tips for first years
+The HDip course team discuss approaching IT as an Adult Learner

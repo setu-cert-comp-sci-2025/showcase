@@ -1,3 +1,0 @@
-Life etc...
-
-Learning online with the HDip in Computer Science.

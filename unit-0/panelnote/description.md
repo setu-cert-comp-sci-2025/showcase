@@ -1,6 +1,0 @@
- ## Online Certificate in Science in Computer Science
- This ICT Conversion Course is designed for honours graduates from non-computing disciplines to develop the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment. The programme also serves as a solid foundation for progression to more specialised studies in the ICT domain.
-
- Successful applicants for this course will be existing honours graduates (level 8) with the capacity and aptitude (for example numeracy skills) to complete an intensive Computer Science programme and work placement. Typical disciplines in this categoty include Engineering; Architecture; Mathematics, Physics and Financial Services. These students are generally strongly suited to the programme.
-
- We have also successfully graduated students with a good general analytic aptitude, with an academic background in Management Information Systems, Economics; Accounting; Business and the Arts. For these students, we request that they sample a taster of the programme consisting of introductory topics of the semester 1 content to ascertain their level of interest and disposition towards the discipline. Links available on this site.
